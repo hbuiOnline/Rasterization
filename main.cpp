@@ -1,6 +1,5 @@
 /*******************************************************
- * Homework 1: Rasterization                           *
- * CS 148 (Summer 2016), Stanford University           *
+                Rasterization                           *
  *-----------------------------------------------------*
  * Here you will implement the circle rasterization    *
  * method you derived in the written portion of the    *
